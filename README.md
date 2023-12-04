@@ -1,1 +1,1 @@
-# VrSzemuvegek-feladat
+.net 8.0
