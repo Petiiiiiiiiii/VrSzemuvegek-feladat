@@ -1,0 +1,40 @@
+Kód: 1
+Felbontás: 2160x1200
+Látómező: 110 fok
+Súlya: 400 g
+Frissítési ráta: 90 Hz
+Kapcsolat típusa: Wireless
+Érzékelők: infravoros,gyorsulásmérő
+
+Kód: 3
+Felbontás: 2560x1440
+Látómező: 120 fok
+Súlya: 420 g
+Frissítési ráta: 120 Hz
+Kapcsolat típusa: Wireless
+Érzékelők: infravoros,gyorsulásmérő
+
+Kód: 5
+Felbontás: 2880x1600
+Látómező: 115 fok
+Súlya: 450 g
+Frissítési ráta: 110 Hz
+Kapcsolat típusa: Wireless
+Érzékelők: ultrahang,laser
+
+Kód: 7
+Felbontás: 1920x1200
+Látómező: 100 fok
+Súlya: 360 g
+Frissítési ráta: 90 Hz
+Kapcsolat típusa: Wireless
+Érzékelők: laser,gyorsulásmérő
+
+Kód: 9
+Felbontás: 2400x1440
+Látómező: 115 fok
+Súlya: 420 g
+Frissítési ráta: 100 Hz
+Kapcsolat típusa: Wireless
+Érzékelők: infravoros,laser
+
